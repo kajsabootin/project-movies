@@ -1,16 +1,29 @@
 # Project Movies
 
-- The project was about to build a movie site with react, react-router-dom and use params.
+- A multi-page React application based on the Movie Database API and primarily two lists made by me for this project.
 
 ## The problem
 
-- I made a plan before I started this work, which I usually do not do. 
-  It made it easier to understand what I needed to do.
-
 - If I had more time I would add a page "Movie not found".
 
-## View it live
+<<<<<<< HEAD
+- If I had more time I would add a page "Movie not found".
+=======
+## Learning objectives
+>>>>>>> 378e730685ba3fa272b2a09a55a350555fdf121f
 
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+- Using React router to create multi-page applications
+- Using placeholders in urls to pick dynamic parts from urls
+- Using APIs in React - combining useState with useEffect
+
+## Tech
+
+- HTML5
+- CSS3
+- JSX
+- React
+- React Router
+
+## View it live
 
 https://kajsa-projectmovies.netlify.com/
