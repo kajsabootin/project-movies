@@ -27,7 +27,7 @@ export const MovieList = () => {
 
               <img src={`https://image.tmdb.org/t/p/w1280${movie.poster_path}`} alt={movie.original_title} />
               <div 
-                className="Movie-Title"> <h1>{movie.original_title}</h1> <p>Released {movie.release_date}</p>
+                className="MovieTitle"> <h1>{movie.original_title}</h1> <p>Released {movie.release_date}</p>
               </div>
           </Link>
 
