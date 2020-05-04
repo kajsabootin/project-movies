@@ -24,11 +24,11 @@ body {
 
 .detailPage {
   position: relative;
-  width: 100%; 
+  width: 100%;
 }
 
 .detailPage .background {
-  height: 100vh; 
+  height: 100vh;
   display: flex;
   background-size: cover;
   flex-direction: column;
@@ -52,7 +52,7 @@ a {
   margin-block-end: 1em;
   margin-inline-start: 0px;
   margin-inline-end: 0px;
-  text-shadow: 4px 5px 3px rgba(0,0,0, 0.5);
+  text-shadow: 4px 5px 3px rgba(0, 0, 0, 0.5);
 }
 
 .detailPage svg {
@@ -85,7 +85,6 @@ a {
 }
 
 @media (min-width: 1025px) {
-
   .detailPage h1 {
     font-size: 25px;
   }

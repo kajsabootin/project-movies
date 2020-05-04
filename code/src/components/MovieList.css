@@ -45,7 +45,7 @@
   position: relative;
 }
 
-.MovieTitle{
+.MovieTitle {
   position: absolute;
   top: 80;
   right: 0;
@@ -57,16 +57,15 @@
 
 .movieImg:hover img {
   filter: brightness(35%);
-  background: rgba(0,0,0,0.5); 
+  background: rgba(0, 0, 0, 0.5);
 }
 
 .movieImg:hover .MovieTitle {
   display: block;
-  opacity: 1; 
-} 
+  opacity: 1;
+}
 
 @media (min-width: 1025px) {
-
   .MovieTitle h1 {
     font-size: 2em;
   }
@@ -74,5 +73,4 @@
   .MovieTitle p {
     font-size: 16px;
   }
-
 }
